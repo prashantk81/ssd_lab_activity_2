@@ -1,4 +1,0 @@
-Hello World!!
-SSD Lab2
-Shell Script
-
